@@ -6,3 +6,5 @@ Currently building a vr hockey goalie game where you control the goalie going ag
 ** Puck object has been made along with scripts for main and the puck
 
 ** The save and goal scanning/detection is working as intended now
+
+** Scoreboard implementation has been completed, only as a prototype however
