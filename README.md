@@ -10,3 +10,5 @@ Currently building a vr hockey goalie game where you control the goalie going ag
 **** Scoreboard implementation has been completed, only as a prototype however
 
 ***** Built a title screen with ranging difficulties to choose from
+
+****** The transition from difficulty selection to the game itself is working, still needs some editing
